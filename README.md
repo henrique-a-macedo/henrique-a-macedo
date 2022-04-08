@@ -1,16 +1,25 @@
-### Hi there 👋
+### Oi! 👋
 
-<!--
-**henrique-a-macedo/henrique-a-macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Henrique Macedo e estou cursando Análise e Desenvolvimento de Sistemas. Eu já tenho um certo conhecimento em programação por estudar ela anterior por hobby. Não estou trabalhando atualmente, e estou focando nos estudos.
 
-Here are some ideas to get you started:
+Eu tenho interesse em trabalhar nas áreas front-end, desenvolvimento de jogos, inteligência artificial e machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O meu perfil do linkedin é: https://www.linkedin.com/in/heamacedo/
+
+O que eu estou aprendendo/sei no momento: 
+
+- Javascript
+- Python
+- HTML/CSS
+- React
+- C#
+- Unity (Não é uma linguagem, mas né)
+
+O que eu quero aprender ainda:
+
+- Node.js
+- MySQL
+- Typescript
+
+
+Caso queira entrar contato comigo, mande um e-mail ou me adicione no discord: Hyegun#7942.
