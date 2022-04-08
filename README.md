@@ -14,6 +14,7 @@ O que eu estou aprendendo/sei no momento:
 - React
 - C#
 - Unity (Não é uma linguagem, mas né)
+- Selenium
 
 O que eu quero aprender ainda:
 
