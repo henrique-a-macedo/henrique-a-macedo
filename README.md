@@ -6,21 +6,25 @@ Eu tenho interesse em trabalhar nas áreas front-end, desenvolvimento de jogos, 
 
 O meu perfil do linkedin é: https://www.linkedin.com/in/heamacedo/
 
-O que eu estou aprendendo/sei no momento: 
+Linguagens que eu já tenho conhecimento: 
 
+- C#
 - Javascript
 - Python
 - HTML/CSS
-- React
-- C#
 - Unity (Não é uma linguagem, mas né)
-- Selenium
+
+O que estou aprendendo:
+
+- React
+- Vue
+- MySQL
 
 O que eu quero aprender ainda:
 
-- Node.js
-- MySQL
+- Express
 - Typescript
+- Tensorflow
 
 
 Caso queira entrar contato comigo, mande um e-mail ou me adicione no discord: Hyegun#7942.
