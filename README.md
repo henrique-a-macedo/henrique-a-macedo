@@ -1,6 +1,6 @@
 ### Oi! 👋
 
-Eu me chamo Henrique Macedo e estou cursando Análise e Desenvolvimento de Sistemas. Eu já tenho um certo conhecimento em programação por estudar ela anterior por hobby. Não estou trabalhando atualmente, e estou focando nos estudos.
+Eu me chamo Henrique Macedo e estou cursando Análise e Desenvolvimento de Sistemas. Trabalho hoje como Front-end no grupo gpac.
 
 Eu tenho interesse em trabalhar nas áreas front-end, desenvolvimento de jogos, inteligência artificial e machine learning.
 
