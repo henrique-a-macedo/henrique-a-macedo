@@ -12,7 +12,7 @@ Linguagens que eu já tenho conhecimento:
 - Javascript
 - Python
 - HTML/CSS
-- Unity (Não é uma linguagem, mas né)
+- Unity (Não é uma linguagem, mas beleza)
 
 O que estou aprendendo:
 
