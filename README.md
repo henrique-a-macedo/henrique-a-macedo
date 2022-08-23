@@ -2,7 +2,7 @@
 
 Eu me chamo Henrique Macedo e estou cursando Análise e Desenvolvimento de Sistemas. Trabalho hoje como Front-end no grupo gpac.
 
-Eu tenho interesse em trabalhar nas áreas front-end, desenvolvimento de jogos, inteligência artificial e machine learning.
+Eu tenho interesse em aprender nas áreas de front-end, desenvolvimento de jogos, inteligência artificial, machine learning e análise de dados.
 
 O meu perfil do linkedin é: https://www.linkedin.com/in/heamacedo/
 
