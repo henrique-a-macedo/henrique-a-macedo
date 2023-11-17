@@ -12,12 +12,10 @@ Linguagens que eu já tenho conhecimento:
 - Javascript
 - Python
 - HTML/CSS
-- Unity (Não é uma linguagem, mas beleza)
-
+- VueJS
+- NuxtJS
 O que estou aprendendo:
 
-- React
-- Vue
 - MySQL
 
 O que eu quero aprender ainda:
